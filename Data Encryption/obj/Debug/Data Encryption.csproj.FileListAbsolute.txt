@@ -1,0 +1,12 @@
+C:\Users\super\source\repos\Data Encryption\Data Encryption\bin\Debug\Data Encryption.exe.config
+C:\Users\super\source\repos\Data Encryption\Data Encryption\bin\Debug\Data Encryption.exe
+C:\Users\super\source\repos\Data Encryption\Data Encryption\bin\Debug\Data Encryption.pdb
+C:\Users\super\source\repos\Data Encryption\Data Encryption\bin\Debug\Siticone.UI.dll
+C:\Users\super\source\repos\Data Encryption\Data Encryption\obj\Debug\Data Encryption.csproj.AssemblyReference.cache
+C:\Users\super\source\repos\Data Encryption\Data Encryption\obj\Debug\Data_Encryption.ui.resources
+C:\Users\super\source\repos\Data Encryption\Data Encryption\obj\Debug\Data_Encryption.Properties.Resources.resources
+C:\Users\super\source\repos\Data Encryption\Data Encryption\obj\Debug\Data Encryption.csproj.GenerateResource.cache
+C:\Users\super\source\repos\Data Encryption\Data Encryption\obj\Debug\Data Encryption.csproj.CoreCompileInputs.cache
+C:\Users\super\source\repos\Data Encryption\Data Encryption\obj\Debug\Data Encryption.csproj.CopyComplete
+C:\Users\super\source\repos\Data Encryption\Data Encryption\obj\Debug\Data Encryption.exe
+C:\Users\super\source\repos\Data Encryption\Data Encryption\obj\Debug\Data Encryption.pdb
